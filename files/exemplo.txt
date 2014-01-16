@@ -1,0 +1,2 @@
+este e um exemplo de leitura plana de um ficheiro com php
+bom trabalho
